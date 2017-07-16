@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+
+target 'AlternativeIconExample' do
+  use_frameworks!
+  
+  pod 'AddWith', '1.0.1'
+  pod 'Then', '2.1.0'
+  pod 'SnapKit', '3.2.0'
+
+end
