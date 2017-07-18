@@ -62,7 +62,7 @@ This repository contains simple application demo it.
 * The icon must to be related to your app.
 * Click [here](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon#user-selectable-app-icons) to show more details.
 
-## Dependency
+## Used libraries.
 * [AddWith](https://github.com/KimDarren/AddWith)
 * [Then](https://github.com/devxoul/Then)
 * [SnapKit](https://github.com/snapkit/snapkit)
